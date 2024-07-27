@@ -1,0 +1,1462 @@
+Jump to content
+
+	
+		
+			
+				
+
+	
+	
+
+Main menu
+	
+	
+
+
+				
+		
+
+	
+	Main menu
+	move to sidebar
+	hide
+
+
+	
+
+	
+		Navigation
+	
+	
+		
+		
+			
+			Main pageContentsCurrent eventsRandom articleAbout WikipediaContact usDonate
+		
+		
+	
+
+
+	
+	
+
+	
+		Contribute
+	
+	
+		
+		
+			
+			HelpLearn to editCommunity portalRecent changesUpload file
+		
+		
+	
+
+
+
+
+				
+
+	
+
+
+		
+			
+
+	
+	
+		
+		
+	
+
+
+		
+		
+			
+
+	
+
+Search
+	
+	
+		
+			
+				
+					
+						
+						
+					
+					
+				
+				Search
+			
+		
+	
+
+
+			
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+		
+
+	
+	
+
+Appearance
+	
+	
+
+
+			
+				
+			
+		
+	
+
+
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			Create account
+
+Log in
+
+
+			
+		
+		
+	
+
+
+	
+	
+
+	
+	
+
+Personal tools
+	
+	
+
+
+		
+
+	
+		
+		
+			
+			 Create account Log in
+		
+		
+	
+
+
+
+	
+		Pages for logged out editors learn more
+	
+	
+		
+		
+			
+			ContributionsTalk
+		
+		
+	
+
+
+	
+	
+
+
+
+
+		
+	
+
+
+	
+		
+			
+		
+		
+			
+		
+			
+				
+				
+				
+		
+		
+	
+	
+				
+					
+					
+	
+	Contents
+	move to sidebar
+	hide
+
+
+
+	
+		
+			
+				(Top)
+			
+		
+		
+		
+			
+				1
+				History
+			
+		
+		
+			
+				
+				Toggle History subsection
+			
+		
+		
+			
+			
+				
+					1.1
+					Branding
+				
+			
+			
+			
+			
+		
+	
+	
+	
+		
+			
+				2
+				Overview
+			
+		
+		
+			
+				
+				Toggle Overview subsection
+			
+		
+		
+			
+			
+				
+					2.1
+					Platform architecture
+				
+			
+			
+			
+			
+		
+		
+			
+				
+					2.2
+					Industry support
+				
+			
+			
+			
+			
+		
+	
+	
+	
+		
+			
+				3
+				Releases
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				4
+				Technical details
+			
+		
+		
+			
+				
+				Toggle Technical details subsection
+			
+		
+		
+			
+			
+				
+					4.1
+					Internals
+				
+			
+			
+			
+			
+		
+		
+			
+				
+					4.2
+					Threading
+				
+			
+			
+			
+			
+		
+		
+			
+				
+					4.3
+					V8
+				
+			
+			
+			
+			
+		
+		
+			
+				
+					4.4
+					Package management
+				
+			
+			
+			
+			
+		
+		
+			
+				
+					4.5
+					Event loop
+				
+			
+			
+			
+			
+		
+		
+			
+				
+					4.6
+					WebAssembly
+				
+			
+			
+			
+			
+		
+		
+			
+				
+					4.7
+					Native bindings
+				
+			
+			
+			
+			
+		
+	
+	
+	
+		
+			
+				5
+				Project governance
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				6
+				References
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				7
+				Further reading
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				8
+				External links
+			
+		
+		
+		
+		
+	
+
+
+
+					
+		
+			
+		
+		
+			
+				
+					
+						
+
+	
+	
+
+Toggle the table of contents
+	
+	
+
+
+							
+			
+		
+	
+
+
+					
+					Node.js
+							
+
+	
+	
+
+50 languages
+	
+	
+
+		
+			
+			
+				
+				العربيةAsturianuAzərbaycancaবাংলা閩南語 / Bân-lâm-gúБеларускаяБългарскиCatalàČeštinaDanskDeutschEestiΕλληνικάEspañolEuskaraفارسیFrançais한국어Հայերենहिन्दीBahasa IndonesiaItalianoעבריתКыргызчаLatviešuLombardMagyarമലയാളംBahasa MelayuNederlands日本語Norsk bokmålOʻzbekcha / ўзбекчаPolskiPortuguêsQaraqalpaqshaRomânăРусскийShqipSimple EnglishکوردیСрпски / srpskiSuomiSvenskaไทยTürkçeУкраїнськаاردوTiếng Việt中文
+			
+			Edit links
+		
+
+	
+
+
+				
+					
+						
+							
+								
+
+	
+		
+		
+			
+			ArticleTalk
+		
+		
+	
+
+
+								
+
+	
+	English
+	
+	
+
+
+					
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+				
+	
+
+
+							
+						
+						
+							
+								
+
+	
+		
+		
+			
+			ReadEditView history
+		
+		
+	
+
+
+							
+				
+							
+								
+
+	
+	Tools
+	
+	
+
+
+									
+						
+
+	
+	Tools
+	move to sidebar
+	hide
+
+
+	
+
+	
+		Actions
+	
+	
+		
+		
+			
+			ReadEditView history
+		
+		
+	
+
+
+
+	
+		General
+	
+	
+		
+		
+			
+			What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationCite this pageGet shortened URLDownload QR codeWikidata item
+		
+		
+	
+
+
+
+	
+		Print/export
+	
+	
+		
+		
+			
+			Download as PDFPrintable version
+		
+		
+	
+
+
+
+	
+		In other projects
+	
+	
+		
+		
+			
+			Wikimedia CommonsWikibooks
+		
+		
+	
+
+
+
+
+									
+				
+	
+
+
+							
+						
+					
+				
+				
+					
+						
+							
+				
+							
+		
+						
+							
+				
+	
+	Appearance
+	move to sidebar
+	hide
+
+
+
+
+
+							
+		
+					
+				
+				
+					
+							
+		
+
+						From Wikipedia, the free encyclopedia
+					
+					
+					
+					
+					JavaScript runtime environment
+.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)>div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme) div:not(.notheme){background:#1f1f23!important;color:#f8f9fa}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table>caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table>tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table tr{display:table-row!important}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}Node.jsOriginal author(s)Ryan DahlDeveloper(s)OpenJS FoundationInitial releaseMay 27, 2009; 15 years ago (2009-05-27)[1]Stable release22.0.0[2] 
+   / April 24, 2024; 3 months ago (April 24, 2024)
+Repository.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}github.com/nodejs/node 
+Written inJavaScript, C++, Python, COperating systemz/OS, Linux, macOS, Microsoft Windows, SmartOS, FreeBSD, OpenBSD, IBM AIX[3]TypeRuntime environmentLicenseMIT License[4][5]Websitenodejs.org 
+Node.js is a cross-platform, open-source JavaScript runtime environment that can run on Windows, Linux, Unix, macOS, and more. Node.js runs on the V8 JavaScript engine, and executes JavaScript code outside a web browser.
+Node.js lets developers use JavaScript to write command line tools and for server-side scripting. The ability to run JavaScript code on the server is often used to generate dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a "JavaScript everywhere" paradigm,[6] unifying web-application development around a single programming language, as opposed to using different languages for the server- versus client-side programming.
+Node.js has an event-driven architecture capable of asynchronous I/O. These design choices aim to optimize throughput and scalability in web applications with many input/output operations, as well as for real-time Web applications (e.g., real-time communication programs and browser games).[7]
+The Node.js distributed development project was previously governed by the Node.js Foundation,[8] and has now merged with the JS Foundation to form the OpenJS Foundation. OpenJS Foundation is facilitated by the Linux Foundation's Collaborative Projects program.[9]
+
+
+History[edit]
+Ryan Dahl, creator of Node.js, in 2010
+Rocket Turtle, the official mascot of Node.js since February 2024
+Node.js was initially written by Ryan Dahl in 2009,[10] about 13 years after the introduction of the first server-side JavaScript environment, Netscape's LiveWire Pro Web.[11] The initial release supported only Linux and Mac OS X. Its development and maintenance was led by Dahl and later sponsored by Joyent.[12]
+Dahl criticized the limited capability of Apache HTTP Server to handle many (10,000+) concurrent connections, as well as the dominant programming paradigm of sequential programming, in which applications could block entire processes or cause the creation of multiple execution stacks for simultaneous connections.[13]
+Dahl demonstrated the project at the inaugural European JSConf on November 8, 2009.[14][15][16] Node.js combined Google's V8 JavaScript engine, an event loop, and a low-level I/O API.[17]
+In January 2010, a package manager was introduced for the Node.js environment called npm.[18] The package manager allows programmers to publish and share Node.js packages, along with the accompanying source code, and is designed to simplify the installation, update and uninstallation of packages.[17]
+In June 2011, Microsoft and Joyent implemented a native Windows version of Node.js.[19] The first Node.js build supporting Windows was released in July 2011.
+In January 2012, Dahl yielded management of the project to npm creator Isaac Schlueter.[20] In January 2014, Schlueter announced that Timothy J. Fontaine would lead the project.[21]
+In December 2014, Fedor Indutny created io.js, a fork of Node.js created because of dissatisfaction with Joyent's governance as an open-governance alternative with a separate technical committee. The goal was to enable a structure that would be more receptive to community input, including the updating of io.js with the latest Google V8 JavaScript engine releases, diverging from Node.js's approach at that time.[22]
+The Node.js Foundation, formed to reconcile Node.js and io.js under a unified banner, was announced in February 2015.[23] The merger was realized in September 2015 with Node.js v0.12 and io.js v3.3 combining into Node v4.0.[24] This merge brought V8 ES6 features into Node.js and started a long-term support release cycle.[25] By 2016, the io.js website recommended returning to Node.js and announced no further io.js releases, effectively ending the fork and solidifying the merger's success.[26]
+In 2019, the JS Foundation and Node.js Foundation merged to form the OpenJS Foundation.
+On September 6, 2023, Node.js 20.6.0 was released. The update brought the addition of built-in support for .env files, the unflagging of import.meta.resolve, the introduction of a new node:module API register for module customization hooks and a new initialize hook. Additionally, the module customization load hook now supports CommonJS, and Node.js C++ add-ons have gained experimental support for cppgc (Oilpan), which is a C++ garbage collection library for V8.[27]
+
+Branding[edit]
+The Node.js logo features a green hexagon with overlapping bands to represent the cross-platform nature of the runtime.[28] The Rocket Turtle was chosen as the official Node.js mascot in February 2024 following a design contest.[29]
+
+Overview[edit]
+Node.js allows the creation of web servers and networking tools using JavaScript and a collection of "modules" that handle various core functionalities.[14][17][30][31][32] Modules are provided for file system I/O, networking (DNS, HTTP, TCP, TLS/SSL or UDP), binary data (buffers), cryptography functions, data streams and other core functions.[17][31][33] Node.js's modules use an API designed to reduce the complexity of writing server applications.[17][31]
+JavaScript is the only language that Node.js supports natively, but many compile-to-JS languages are available.[34] As a result, Node.js applications can be written in CoffeeScript,[35] Dart, TypeScript, ClojureScript and others.
+Node.js is primarily used to build network programs such as web servers.[30] The most significant difference between Node.js and PHP is that most functions in PHP block until completion (commands execute only after previous commands finish), while Node.js functions are non-blocking (commands execute concurrently or even in parallel,[36][37][improper synthesis?] and use callbacks to signal completion or failure).[30]
+Node.js is officially supported by Linux, macOS and Microsoft Windows 8.1 and Server 2012 (and later),[3] with Tier 2 support for SmartOS and IBM AIX and experimental support for FreeBSD. OpenBSD also works, and LTS versions are available for IBM i (AS/400).[38] The source code may also be built on similar operating systems that are not officially supported, such as NonStop OS[39] and Unix servers.
+
+Platform architecture[edit]
+Node.js enables development of fast web servers in JavaScript using event-driven programming.[17] Developers can create scalable servers without using threading by using a simplified model that uses callbacks to signal the completion of a task.[17][page needed] Node.js connects the ease of a scripting language (JavaScript) with the power of Unix network programming.[17]
+Node.js was built on top of Google's V8 JavaScript engine since it was open-sourced under the BSD license, and it contains comprehensive support for fundamental protocols such as HTTP, DNS and TCP.[14] JavaScript's existing popularity made Node.js accessible to the web-development community.[14]
+
+Industry support[edit]
+There are thousands of open-source libraries for Node.js, most of which are hosted on the npm website. Multiple developer conferences and events are held that support the Node.js community, including NodeConf, Node Interactive and Node Summit, as well as a number of regional events.
+The open-source community has developed web frameworks to accelerate the development of applications. Such frameworks include Express.js, Socket.IO, Sails.js, Next.js and Meteor.[17][40] Various packages have also been created for interfacing with other languages or runtime environments such as Microsoft .NET.[41]
+Modern desktop IDEs provide editing and debugging features specifically for Node.js applications. Such IDEs include Atom, Brackets, JetBrains WebStorm,[42][43] Microsoft Visual Studio (with Node.js Tools for Visual Studio,[44] or TypeScript with Node definitions[45][46][47][48]), NetBeans,[49] Nodeclipse Enide Studio[50] (Eclipse-based) and Visual Studio Code.[51][52] Some online IDEs also support Node.js, such as Codeanywhere, Eclipse Che, Cloud9 IDE and the visual flow editor in Node-RED.
+Node.js is supported across a number of cloud-hosting platforms such as Jelastic, Google Cloud Platform, AWS Elastic Beanstalk, Azure Web Apps and Joyent.
+
+Releases[edit]
+
+
+Release[53]
+
+Status
+
+Code name
+
+Release date
+
+Maintenance end
+
+
+Old version, no longer maintained: 0.10.x
+
+Old version, no longer maintained: End-of-Life
+
+
+
+2013-03-11
+
+2016-10-31
+
+
+Old version, no longer maintained: 0.12.x
+
+Old version, no longer maintained: End-of-Life
+
+
+
+2015-02-06
+
+2016-12-31
+
+
+Old version, no longer maintained: 4.x
+
+Old version, no longer maintained: End-of-Life
+
+Argon[54]
+
+2015-09-08
+
+2018-04-30
+
+
+Old version, no longer maintained: 5.x
+
+Old version, no longer maintained: End-of-Life
+
+
+
+2015-10-29
+
+2016-06-30
+
+
+Old version, no longer maintained: 6.x
+
+Old version, no longer maintained: End-of-Life
+
+Boron[54]
+
+2016-04-26
+
+2019-04-30
+
+
+Old version, no longer maintained: 7.x
+
+Old version, no longer maintained: End-of-Life
+
+
+
+2016-10-25
+
+2017-06-30
+
+
+Old version, no longer maintained: 8.x
+
+Old version, no longer maintained: End-of-Life
+
+Carbon[54]
+
+2017-05-30
+
+2019-12-31
+
+
+Old version, no longer maintained: 9.x
+
+Old version, no longer maintained: End-of-Life
+
+
+
+2017-10-01
+
+2018-06-30
+
+
+Old version, no longer maintained: 10.x
+
+Old version, no longer maintained: End-of-Life
+
+Dubnium[54]
+
+2018-04-24
+
+2021-04-30
+
+
+Old version, no longer maintained: 11.x
+
+Old version, no longer maintained: End-of-Life
+
+
+
+2018-10-23
+
+2019-06-01
+
+
+Old version, no longer maintained: 12.x
+
+Old version, no longer maintained: End-of-Life
+
+Erbium[54]
+
+2019-04-23
+
+2022-04-30
+
+
+Old version, no longer maintained: 13.x
+
+Old version, no longer maintained: End-of-Life
+
+
+
+2019-10-22
+
+2020-06-01
+
+
+Old version, no longer maintained: 14.x
+
+Old version, no longer maintained: End-of-Life
+
+Fermium[54]
+
+2020-04-21
+
+2023-04-30
+
+
+Old version, no longer maintained: 15.x
+
+Old version, no longer maintained: End-of-Life
+
+
+
+2020-10-20
+
+2021-06-01
+
+
+Old version, no longer maintained: 16.x
+
+Old version, no longer maintained: End-of-Life
+
+Gallium[54]
+
+2021-04-20
+
+2023-09-11[55]
+
+
+Old version, no longer maintained: 17.x
+
+Old version, no longer maintained: End-of-Life
+
+
+
+2021-10-19
+
+2022-06-01
+
+
+Older version, yet still maintained: 18.x
+
+Older version, yet still maintained: Maintenance LTS
+
+Hydrogen[54]
+
+2022-04-19
+
+2025-04-30
+
+
+Old version, no longer maintained: 19.x
+
+Old version, no longer maintained: End-of-Life
+
+
+
+2022-10-18
+
+2023-06-01
+
+
+Older version, yet still maintained: 20.x
+
+Older version, yet still maintained: Active LTS
+
+Iron[56]
+
+2023-04-18
+
+2026-04-30
+
+
+Older version, yet still maintained: 21.x
+
+Older version, yet still maintained: Maintenance
+
+[54]
+
+2023-10-17
+
+2024-06-01
+
+
+
+Current stable version: 22.x
+
+Current stable version: Current
+
+Jod [56][54]
+
+2024-04-24
+
+2027-04-30
+
+
+
+Future release: 23.x
+
+Future release: Planned
+
+[54]
+
+2024-10-14
+
+2025-06-01
+
+
+
+Future release: 24.x
+
+Future release: Planned
+
+Krypton [56]
+
+2025-04-22
+
+2028-04-30
+
+
+Legend:Old versionOlder version, still maintainedLatest versionLatest preview versionFuture release
+
+New major releases of Node.js are cut from the GitHub main branch every six months. Even-numbered versions are cut in April and odd-numbered versions are cut in October. When a new odd version is released, the previous even version undergoes transition to Long Term Support (LTS), which gives that version 18 months of active support from the date it is designated LTS. After these 18 months expire, an LTS release receives an additional 12 months of maintenance support. An active version receives non-breaking backports of changes a few weeks after they land in the current release. A maintenance release receives only critical fixes and documentation updates.[54] The LTS Working Group manages strategy and policy in collaboration with the Technical Steering Committee of the Node.js Foundation.
+
+Technical details[edit]
+Node.js is a JavaScript runtime environment that processes incoming requests in a loop, called the event loop.
+
+Internals[edit]
+Node.js uses libuv under the hood to handle asynchronous events. Libuv is an abstraction layer for network and file system functionality on both Windows and POSIX-based systems such as Linux, macOS, OSS on NonStop, and Unix. Node.js relies on nghttp2 for HTTP support. As of version 20, Node.js uses the ada library which provides up-to-date WHATWG URL compliance. As of version 19.5, Node.js uses the simdutf library for fast Unicode validation and transcoding. As of version 21.3, Node.js uses the simdjson library for fast JSON parsing.
+
+Threading[edit]
+Node.js operates on a single-thread event loop, using non-blocking I/O calls, allowing it to support tens of thousands of concurrent connections without incurring the cost of thread context switching.[57] The design of sharing a single thread among all the requests that use the observer pattern is intended for building highly concurrent applications, where any function performing I/O must use a callback. To accommodate the single-threaded event loop, Node.js uses the libuv library—which, in turn, uses a fixed-sized thread pool that handles some of the non-blocking asynchronous I/O operations.[7]
+A thread pool handles the execution of parallel tasks in Node.js. The main thread function call posts tasks to the shared task queue, which threads in the thread pool pull and execute. Inherently non-blocking system functions such as networking translate to kernel-side non-blocking sockets, while inherently blocking system functions such as file I/O run in a blocking way on their own threads. When a thread in the thread pool completes a task, it informs the main thread of this, which in turn, wakes up and executes the registered callback.
+A downside of this single-threaded approach is that Node.js does not allow vertical scaling by increasing the number of CPU cores of the machine it is running on without using an additional module, such as cluster,[36] StrongLoop Process Manager,[58] or pm2.[59] However, developers can increase the default number of threads in the libuv thread pool. The server operating system (OS) is likely to distribute these threads across multiple cores.[60] Another problem is that long-lasting computations and other CPU-bound tasks freeze the entire event-loop until completion.[citation needed]
+
+V8[edit]
+.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}@media print{body.ns-0 .mw-parser-output .hatnote{display:none!important}}Main article: V8 (JavaScript engine)
+V8 is the JavaScript execution engine which was initially built for Google Chrome. It was then open-sourced by Google in 2008. Written in C++, V8 compiles JavaScript source code to native machine code at runtime.[7] As of 2016, it also includes Ignition, a bytecode interpreter.
+
+Package management[edit]
+npm is the pre-installed package manager for the Node.js server platform. It installs Node.js programs from the npm registry, organizing the installation and management of third-party Node.js programs.
+
+Event loop[edit]
+Node.js registers with the operating system so the OS notifies it of asynchronous I/O events such as new connections. Within the Node.js runtime, events trigger callbacks and each connection is handled as a small heap allocation. Traditionally, relatively heavyweight OS processes or threads handled each connection. Node.js uses an event loop for concurrent I/O, instead of processes or threads.[61] In contrast to other event-driven servers,[which?] Node.js's event loop does not need to be called explicitly. Instead, callbacks are defined, and the server automatically enters the event loop at the end of the callback definition. Node.js exits the event loop when there are no further callbacks to be performed.
+
+WebAssembly[edit]
+Node.js supports WebAssembly and as of Node 14 has experimental support of WASI, the WebAssembly System Interface.
+
+Native bindings[edit]
+See also: Foreign function interface
+Node.js provides a way to create "add-ons" via a C-based API called N-API, which can be used to produce loadable (importable) .node modules from source code written in C/C++.[62] The modules can be directly loaded into memory and executed from within JS environment as simple CommonJS modules. The implementation of the N-API relies on internal C/C++ Node.js and V8 objects requiring users to import (#include) Node.js specific headers into their native source code.[62]
+As the Node.js API is subject to breaking changes at a binary level, modules have to be built and shipped against specific Node.js versions to work properly. To address the issue, third parties have introduced open-sourced С/С++ wrappers on top of the API that partially alleviate the problem. They simplify interfaces, but as a side effect they may also introduce complexity which maintainers have to deal with. Even though the core functionality of Node.js resides in a JavaScript built-in library, modules written in C++ can be used to enhance capabilities and to improve performance of applications.
+In order to produce such modules one needs to have an appropriate C++ compiler and necessary headers (the latter are typically shipped with Node.js itself), e.g., gcc, clang or MSVC++.
+The N-API is similar to Java Native Interface.
+
+Project governance[edit]
+Main article: OpenJS Foundation
+In 2015, various branches of the greater Node.js community began working under the vendor-neutral Node.js Foundation. The stated purpose of the organization "is to enable widespread adoption and help accelerate development of Node.js and other related modules through an open governance model that encourages participation, technical contribution, and a framework for long-term stewardship by an ecosystem invested in Node.js' success."[63]
+The Node.js Foundation Technical Steering Committee (TSC) is the technical governing body of the Node.js Foundation. The TSC is responsible for the core Node.js repo as well as dependent and adjacent projects. Generally the TSC delegates the administration of these projects to working groups or committees.[64] The LTS group that manages long term supported releases is one such group. Other current groups include Website, Streams, Build, Diagnostics, i18n, Evangelism, Docker, Addon API, Benchmarking, Post-mortem, Intl, Documentation, and Testing.[65]
+In August 2017, a third of the TSC members resigned due to a dispute related to the project's code of conduct.[66]
+
+
+Current TSC Members[67]
+
+
+Username
+Full Name
+
+
+aduh95
+Antoine du Hamel
+
+
+apapirovski
+Anatoli Papirovski
+
+
+benjamingr
+Benjamin Gruenbaum
+
+
+BridgeAR
+Ruben Bridgewater
+
+
+GeoffreyBooth
+Geoffrey Booth
+
+
+gireeshpunathil
+Gireesh Punathil
+
+
+jasnell
+James M Snell
+
+
+joyeecheung
+Joyee Cheung
+
+
+legendecas
+Chengzhong Wu
+
+
+marco-ippolito
+Marco Ippolito
+
+
+mcollina
+Matteo Collina
+
+
+mhdawson
+Michael Dawson
+
+
+MoLow
+Moshe Atlow
+
+
+RafaelGSS
+Rafael Gonzaga
+
+
+richardlau
+Richard Lau
+
+
+ronag
+Robert Nagy
+
+
+ruyadorno
+Ruy Adorno
+
+
+ShogunPanda
+Paolo Insogna
+
+
+targos
+Michaël Zasso
+
+
+tniessen
+Tobias Nießen
+
+
+
+References[edit]
+.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}
+
+^ .mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a{background-size:contain}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a{background-size:contain}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a{background-size:contain}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#2C882D;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911F}html.skin-theme-clientpref-night .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-night .mw-parser-output .cs1-hidden-error{color:#f8a397}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-os .mw-parser-output .cs1-hidden-error{color:#f8a397}html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911F}}"node-v0.x-archive on GitHub". GitHub. Retrieved 2 August 2014.
+
+^ "Release 22.0.0". 24 April 2024.
+
+^ a b "nodejs/node". GitHub. 13 April 2022.
+
+^ "node/LICENSE at master". GitHub. Node.js Foundation. 17 September 2018. Retrieved 17 September 2018.
+
+^ "The MIT License". Open Source Initiative. 17 September 2018. Retrieved 17 September 2018.
+
+^ gcuomo (24 October 2013). "JavaScript Everywhere and the Three Amigos (Into the wild BLUE yonder!)". www.ibm.com. Archived from the original on 14 November 2013. Retrieved 24 October 2013.
+
+^ a b c Laurent Orsini (7 November 2013). "What You Need To Know About Node.js". readwrite.com. Retrieved 6 February 2022.
+
+^ "Node.js Foundation - Node.js". nodejs.org. Retrieved 4 July 2015.
+
+^ "Linux Foundation Collaborative Projects". linuxfoundation.org. 4 July 2015. Retrieved 4 July 2015.
+
+^ "About Node.js, and why you should add Node.js to your skill set?". Training.com. 11 September 2016. Archived from the original on 1 April 2017. Retrieved 23 October 2016.
+
+^ Staff, CNET News (15 October 1996). "Netscape opens intranet attack". CNET. Retrieved 20 April 2017.
+
+^ Ryan Dahl (9 November 2010). "Joyent and Node". Google Groups. Retrieved 5 February 2015.
+
+^ Garbar, Dzmitry. "PHP 7 vs Node.js? They Can Be Partners, Not Competitors For a Developer!". belitsoft.com. Retrieved 21 December 2016.
+
+^ a b c d Sams Teach Yourself Node.js in 24 Hours, Sams Publishing, 05-Sep-2012
+
+^ Ubl, Malte (9 September 2009). "JSConf.eu 2009, Berlin, Germany". www.jsconf.eu. Retrieved 9 September 2009.
+
+^ "Ryan Dahl: Original Node.js presentation". Archived from the original on 15 December 2021 – via www.youtube.com.
+
+^ a b c d e f g h i Professional Node.js: Building JavaScript Based Scalable Software, John Wiley & Sons, 01-Oct-2012
+
+^ "Earliest releases of npm". GitHub. Retrieved 27 July 2016.
+
+^ Ryandahl (23 June 2011). "Porting Node to Windows With Microsoft's Help". nodejs.org. Retrieved 17 April 2016.
+
+^ Dahl, Ryan. "New gatekeeper". Retrieved 26 October 2013.
+
+^ Schlueter, Isaac (15 January 2014). "The Next Phase of Node.js". Retrieved 21 January 2014.
+
+^ Q&A: Why io.js decided to fork Node.js, InfoWorld Tech Watch
+
+^ "Node.js Foundation Advances Community Collaboration, Announces New Members and Ratified Technical Governance". Archived from the original on 24 June 2015. Retrieved 4 July 2015.
+
+^ "Node.js Foundation Combines Node.js and io.js Into Single Codebase in New Release". nodejs.org. 14 September 2015. Retrieved 28 January 2016.
+
+^ "io.js and Node.js merge". medium.com. 19 May 2015. Retrieved 27 June 2015.
+
+^ Io.js, JavaScript I/O, "io.js has merged with the Node.js project again. There won't be any further io.js releases. All of the features in io.js are available in Node.js v4 and above."
+
+^ "Previous Releases". Node.js.
+
+^ "Brand Guide" (PDF). Node.js. OpenJS Foundation. Retrieved 22 March 2024.
+
+^ "Node.JS on X: "Meet Rocket Turtle there are many ways 👋"". Retrieved 22 March 2024.
+
+^ a b c Node.js for PHP Developers, O'Reilly Media, Inc., 2013
+
+^ a b c Node.js Essentials, Packt Publishing, 10-Nov-2015
+
+^ Smashing Node.js: JavaScript Everywhere, John Wiley & Sons, 14-Aug-2012
+
+^ Modules, Nodejs Website
+
+^ "List of languages that compile to JS". Github.
+
+^ CoffeeScript on Node.js. O'Reilly Media, Inc. 15 April 2013. ISBN 9781449316846. Retrieved 17 May 2015.
+
+^ a b "Node.js's cluster module". nodejs.org. Retrieved 19 October 2017.
+
+^ "Node.js's child_process module". nodejs.org. Retrieved 19 October 2017.
+
+^ Foundation, Node js. "Installing Node.js via package manager". Node.js. Retrieved 19 May 2019.
+
+^ "bomBora - Node.js for NonStop". infrasoft.com.au. Infrasoft. Archived from the original on 11 March 2018. Retrieved 14 August 2015.
+
+^ Express.js Guide: The Comprehensive Book on Express.js, Azat Mardan, 28-May-2014
+
+^ Edge.js bridges the gap between Node.js and .NET, TechRepublic, Tony Patton, 1 July 2014
+
+^ Node.js, WebStorm supports integration with the Node.js runtime environment, WebStorm Help
+
+^ Running and Debugging Node.js, WebStorm Help
+
+^ "Node.js Tools for Visual Studio". microsoft.com. Retrieved 1 February 2016.
+
+^ soywiz/typescript-node-definitions TypeScript's typings for some popular node.js modules, GitHub
+
+^ DefinitelyTyped, GitHub
+
+^ "The repository for high quality TypeScript type definitions". definitelytyped.org. Archived from the original on 3 February 2016.
+
+^ ImageBoard, A Node.js + Express + MongoDB application built using TypeScript on the server Archived 18 May 2019 at the Wayback Machine, TypeScript Samples
+
+^ Krill, Paul (10 November 2015). "Node.js takes center stage in NetBeans 8.1". infoworld.com. InfoWorld. Retrieved 10 November 2015.
+
+^ Nodeclipse, Enide -- Node.JS development in Eclipse, Nodeclipse Website
+
+^ Hello Visual Studio Code (with NodeJS), Channel 9, Microsoft
+
+^ 
+Node.js Applications with VS Code, Visual Studio Code
+
+^ "Releases". Node.js. 23 August 2023.
+
+^ a b c d e f g h i j k l "nodejs/Release". GitHub. Retrieved 3 May 2018.
+
+^ Bringing forward the End-of-Life Date for Node.js 16, Node.js Website
+
+^ a b c "Node.JS CODENAMES.md". GitHub. Retrieved 6 September 2023.
+
+^ "Node.js w/1M concurrent connections!". caustik's blog. 19 August 2012.
+
+^ "StrongLoop Process Manager". strong-pm.io.
+
+^ "GitHub - Unitech/pm2: Production process manager for Node.js applications with a built-in load balancer". GitHub. 12 June 2021.
+
+^ Aleksander Kasiuk (22 April 2015). "On problems with threads in node.js - Future Processing".
+
+^ About Node.js, Node.js Website
+
+^ a b "C++ addons | Node.js v14.12.0 Documentation". nodejs.org. Retrieved 26 September 2020.
+
+^ Foundation, Node.js. "Node.js Foundation | Node.js". nodejs.org. Retrieved 8 March 2017.
+
+^ "nodejs/TSC". GitHub. Retrieved 8 March 2017.
+
+^ Foundation, Node.js. "Working Groups | Node.js". nodejs.org. Archived from the original on 27 February 2017. Retrieved 8 March 2017.
+
+^ Whittaker, Zack, After governance breakdown, Node.js leaders fight for its survival, ZDNet, 25 August 2017
+
+^ "tsc-voting-members". Github.com. 16 May 2024.
+
+
+Further reading[edit]
+Hughes-Croucher, Tom; Wilson, Mike (April 2012), Up and Running with Node.js, O'Reilly Media, ISBN 978-1-4493-9858-3
+Ornbo, George (September 2012), Sams Teach Yourself Node.js in 24 Hours, SAMS Publishing, ISBN 978-0-672-33595-2
+Teixeira, Pedro (October 2012), Professional Node.js, John Wiley & Sons, ISBN 978-1-118-22754-1
+Randal L. Schwartz and Aaron Newcomb (9 January 2013). "Episode 237: Node.js". twit.tv/show/floss-weekly (Podcast). TWiT.tv.  Event occurs at 1:08:13. Retrieved 9 January 2013.
+Gackenheimer, Cory (October 2013), Node.js Recipes: A Problem-Solution Approach, Apress, ISBN 978-1-4302-6058-5
+External links[edit]
+.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:var(--background-color-interactive-subtle,#f8f9fa);display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}@media print{body.ns-0 .mw-parser-output .sistersitebox{display:none!important}}
+
+
+Wikimedia Commons has media related to Node.js.
+
+Official website 
+node on GitHub
+.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}vteNode.jsPlatform
+Node.js
+npm
+V8
+CommonJS
+Frameworks
+MEAN
+MongoDB
+Express.js
+AngularJS/Angular
+MEEN (substituted with Ember.js)
+Backbone.js
+Meteor
+Sails.js (uses Express.js)
+Next.js
+Libraries
+Lodash
+Underscore.js
+React.js
+Vue.js
+Languages
+JavaScript
+CoffeeScript
+TypeScript
+
+vteJavaScriptCode analysis
+ESLint
+JSHint
+JSLint
+Supersets
+JS++
+TypeScript
+ArkTS
+Transpilers
+AtScript
+Babel
+ClojureScript
+CoffeeScript
+Dart
+Elm
+Emscripten
+Google Closure Compiler
+Google Web Toolkit
+Haxe
+LiveScript
+Morfik
+Nim
+Opa
+PureScript
+Reason
+WebSharper
+Concepts
+JavaScript library
+JavaScript syntax
+Debuggers
+Chrome DevTools
+Firefox Inspector
+Komodo IDE
+Microsoft Edge DevTools
+Opera DevTools
+Safari Web Inspector
+Doc generators
+JSDoc
+Editors (comparison)
+Ace
+Cloud9 IDE
+Atom
+CodeMirror
+Brackets
+Light Table
+PhpStorm
+Orion
+Visual Studio
+Visual Studio Express
+Visual Studio Code
+Visual Studio Team Services
+Vim
+Engines
+List of ECMAScript engines
+Frameworks
+Comparison of JavaScript frameworks
+List of JavaScript libraries
+Related technologies
+Ajax
+AssemblyScript
+asm.js
+Cascading Style Sheets
+Document Object Model
+HTML
+HTML5
+JSON
+WebAssembly
+WebAuthn
+Package managers
+npm
+yarn
+Module bundlers
+Webpack
+Vite
+esbuild
+Server-side
+Active Server Pages
+Bun
+CommonJS
+Deno
+JSGI
+Node.js
+Wakanda
+Unit testing frameworks (list)
+Jasmine
+Jest
+Mocha
+QUnit
+People
+Douglas Crockford
+Ryan Dahl
+Brendan Eich
+John Resig
+
+.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}Authority control databases: National 
+Germany
+Israel
+United States
+Czech Republic
+
+
+
+
+
+
+
+<img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;">
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Node.js&oldid=1236147677"
+					Categories: 2009 softwareFree software programmed in C++Free software programmed in JavaScriptJavaScript librariesJoyentLinux Foundation projectsSoftware using the MIT licenseHidden categories: Webarchive template wayback linksArticles with short descriptionShort description matches WikidataArticles that may contain original research from November 2023Wikipedia articles needing page number citations from November 2023All articles with unsourced statementsArticles with unsourced statements from March 2017All articles with specifically marked weasel-worded phrasesArticles with specifically marked weasel-worded phrases from November 2023Commons category link from WikidataArticles with GND identifiersArticles with J9U identifiersArticles with LCCN identifiersArticles with NKC identifiersUse dmy dates from November 2019
+				
+			
+			
+		
+		
+			
+
+	
+	 This page was last edited on 23 July 2024, at 04:51 (UTC).
+	Text is available under the Creative Commons Attribution-ShareAlike License 4.0;
+additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+	
+	Privacy policy
+	About Wikipedia
+	Disclaimers
+	Contact Wikipedia
+	Code of Conduct
+	Developers
+	Statistics
+	Cookie statement
+	Mobile view
+
+
+	
+	
+	
+
+
+
+
+		
+	 
+ 
+
+	
+		
+		
+	
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-fdcb8b744-x9w5j","wgBackendResponseTime":138,"wgPageParseReport":{"limitreport":{"cputime":"1.095","walltime":"1.284","ppvisitednodes":{"value":7350,"limit":1000000},"postexpandincludesize":{"value":163138,"limit":2097152},"templateargumentsize":{"value":9167,"limit":2097152},"expansiondepth":{"value":21,"limit":100},"expensivefunctioncount":{"value":15,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":214952,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00% 1145.894      1 -total"," 45.97%  526.758      2 Template:Infobox"," 41.43%  474.768      1 Template:Infobox_software"," 29.23%  334.932      5 Template:Wikidata"," 26.86%  307.768      1 Template:Infobox_software/simple"," 20.17%  231.098      1 Template:Reflist"," 13.73%  157.283     43 Template:Cite_web","  7.42%   85.057      2 Template:Navbox","  7.14%   81.852      1 Template:NodeJs","  5.42%   62.150      1 Template:Short_description"]},"scribunto":{"limitreport-timeusage":{"value":"0.750","limit":"10.000"},"limitreport-memusage":{"value":15735743,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-fdcb8b744-crgwg","timestamp":"20240727164923","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"Node.js","url":"https:\/\/en.wikipedia.org\/wiki\/Node.js","sameAs":"http:\/\/www.wikidata.org\/entity\/Q756100","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q756100","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2009-12-13T03:39:08Z","dateModified":"2024-07-23T04:51:31Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d9\/Node.js_logo.svg","headline":"JavaScript runtime environment"}
+
